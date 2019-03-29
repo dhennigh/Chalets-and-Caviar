@@ -1900,7 +1900,7 @@ object {
   border-bottom: none;
 }
 .site-footer .widget ul li:before {
-  content: "\2192";
+  /*content: "\2192";*/
   color: #0978bd;
   margin-right: 10px;
 }
