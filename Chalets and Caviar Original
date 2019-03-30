@@ -538,7 +538,7 @@ a:hover, a:active {
 
 .site-branding a {
 	text-decoration: none;
-  color: #000;
+  color: #051938;
   font-size: 25px;
 }
 .site-branding h1 {
@@ -548,7 +548,7 @@ a:hover, a:active {
 }
 .site-description {
   margin: 0;
-  color: #eee;
+  color: #05195a;
   font-size: 12px;
 }
 .top-bar {
@@ -828,6 +828,8 @@ background: #eee;
 #cssmenu>ul>li:hover>a,
 #cssmenu>ul>li.active>a {
   color: #000000;
+	background: #051938;
+    color: #42b2f8;
 }
 
 #cssmenu>ul>li:hover>a:after,
@@ -1900,7 +1902,7 @@ object {
   border-bottom: none;
 }
 .site-footer .widget ul li:before {
-  content: "\2192";
+  /*content: "\2192";*/
   color: #0978bd;
   margin-right: 10px;
 }
