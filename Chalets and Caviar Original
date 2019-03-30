@@ -825,9 +825,7 @@ background: #eee;
   height: 100%;
 }
 
-#cssmenu>ul>li:hover>a,
-#cssmenu>ul>li.active>a {
-  color: #000000;
+#cssmenu>ul>li:hover>a {
 	background: #051938;
     color: #42b2f8;
 }
