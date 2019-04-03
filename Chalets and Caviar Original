@@ -539,7 +539,8 @@ a:hover, a:active {
 .site-branding a {
 	text-decoration: none;
   color: #051938;
-  font-size: 25px;
+  font-size: 40px;
+	font-family: Brush Script MT, Brush Script Std, sans-serif;
 }
 .site-branding h1 {
 	color: #000;
