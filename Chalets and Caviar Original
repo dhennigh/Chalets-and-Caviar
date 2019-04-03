@@ -548,7 +548,7 @@ a:hover, a:active {
 }
 .site-description {
   margin: 0;
-  color: #05195a;
+  color: #051938;
   font-size: 17px;
 }
 .top-bar {
@@ -1868,7 +1868,7 @@ object {
 --------------------------------------------------------------*/
 .site-footer {
   width: 100%;
-  background: #000;
+  background: #051938;
   padding: 6em 0 2em;
   position: relative;
 
