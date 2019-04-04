@@ -551,6 +551,7 @@ a:hover, a:active {
   margin: 0;
   color: #051938;
   font-size: 17px;
+	font-style: italic;
 }
 .top-bar {
   background: #eee;
