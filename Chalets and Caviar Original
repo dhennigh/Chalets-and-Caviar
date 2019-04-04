@@ -812,7 +812,7 @@ background: #eee;
 }
 
 #cssmenu>ul>li>a {
-  color: #000;
+  color: #051938;
   padding:15px;
   text-transform: capitalize;
   font-size: 14px;
