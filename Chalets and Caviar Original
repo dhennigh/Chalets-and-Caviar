@@ -2085,6 +2085,10 @@ a.slim-button {
   clear: both;
 }
 
+.es-slideshow img {
+    max-height: 165px;
+}
+
 .es-thumbnail {
 	max-height: 165px;
 }
