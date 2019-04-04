@@ -2084,3 +2084,7 @@ a.slim-button {
 .site-main .comment-navigation, .site-main .posts-navigation, .site-main .post-navigation {
   clear: both;
 }
+
+.es-thumbnail {
+	max-height: 165px;
+}
