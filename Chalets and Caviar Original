@@ -2092,3 +2092,7 @@ a.slim-button {
 .es-thumbnail {
 	max-height: 165px;
 }
+
+div.es-property-info .es-col-view span.es-price {
+	font-size: 16px;
+}
